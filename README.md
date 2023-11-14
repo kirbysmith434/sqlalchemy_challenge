@@ -1,7 +1,7 @@
 ## SQLalchemy_Challenge
 
 ## Description
-In this challenge, I was asked to analyze and explore climate data to help determine when a good time to visit Hawaii would be.
+In this challenge, I was asked to analyze and explore climate data. The findings will help determine when the best time for me to vacation in Hawaii would be based on climate data.
 
 To accomplish this analysis, I utilized my Mac OS, SQLAlchemy ORM Queries, Pandas, Matplotlib, and GitHub.
 
